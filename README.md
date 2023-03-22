@@ -26,7 +26,7 @@ This tutorial outlines how to use a VPN using a virtual machine with Azure.<br /
 - Observe IP after with VPN
 
 <h2>Before We Begin</h2>
-Browse to https://whatismyipaddress.com and take notes of this in a text file or note pad
+Browse to https://whatismyipaddress.com and take notes of your current ipaddress in a text file or note pad
 
 <img src="https://i.imgur.com/PYJ4z8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -55,11 +55,6 @@ Download and install ProtoVpn on your device. You can do this by visiting the Pr
 
 <img src="https://i.imgur.com/gqMtiKH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<img src="https://i.imgur.com/mzDb4dx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p>
-<img src="https://i.imgur.com/gqMtiKH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Download and install ProtoVpn on your device. You can do this by visiting the ProtoVpn website and following the installation instructions provided.
-</p>
-<br />
+
