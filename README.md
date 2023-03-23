@@ -36,17 +36,17 @@ Browse to https://whatismyipaddress.com and take notes of your current ipaddress
 
 - Create Virtual Machine > Create Microsoft 10 in another geographic location (try a different country) > Setup your login > Create
 
-<img src="https://i.imgur.com/v5dK8cK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NRrbAIn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 - Log into the VM with Remote Desktop
 
-<img src="https://i.imgur.com/Zsn0oFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7eAH06B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 - Browse to https://whatismyipaddress.com and take note of this in your text file or note pad
 
-<img src="https://i.imgur.com/Zsn0oFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/L1FDvtl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <h2>Sign up and Download ProtonVPN </h2>
@@ -57,4 +57,16 @@ Download and install ProtoVpn on your device. You can do this by visiting the Pr
 
 <img src="https://i.imgur.com/mzDb4dx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+<h2>Observe IP Address with VPN</h2>
+
+- Select a country in which you woulid like to connect. 
+ 
+<img src="https://i.imgur.com/tYxZLQE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+- Browse to https://whatismyipaddress.com AGAIN  with VPN and take note of this in your text file or note pad
+
+
+<img src="https://i.imgur.com/9SZlVIP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
