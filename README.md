@@ -66,7 +66,7 @@ Download and install ProtonVPN on your device. You can do this by visiting the [
 <img src="https://i.imgur.com/tYxZLQE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-- Browse to https://whatismyipaddress.com AGAIN  with VPN and take note of this in your text file or note pad
+- Browse to https://whatismyipaddress.com AGAIN  with VPN and take note of this in your text file or note pad. Try browsing other websites and see if there is anything different about the website in relation to the location of your VPN Server.
 
 
 <img src="https://i.imgur.com/9SZlVIP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
