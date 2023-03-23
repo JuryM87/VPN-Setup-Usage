@@ -51,7 +51,8 @@ Browse to https://whatismyipaddress.com and take notes of your current ipaddress
 
 <h2>Sign up and Download ProtonVPN </h2>
 
-Download and install ProtoVpn on your device. You can do this by visiting the ProtoVpn website and following the installation instructions provided.
+Download and install ProtonVPN on your device. You can do this by visiting the [ProtoVpn](https://protonvpn.com/?utm_campaign=us-all-2a-vpn-gro_src-g_acq-branded&utm_medium=src_ad&utm_source=google.com&utm_content=127281928056&utm_term=proton+vpn) clicking this link and following the installation instructions provided.
+
 
 <img src="https://i.imgur.com/gqMtiKH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
